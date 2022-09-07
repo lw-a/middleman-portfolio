@@ -1,7 +1,39 @@
 // Specific CSS for your home-page
 .bg-primary {
-  background-color: #6C757D;
+  background-color: #A4C3B2 !important;
 }
 
-body {
+.masthead-avatar{
+  border-radius: 50%;
+  width: 15rem;
+}
+
+.masthead {
+  padding-top: 200px;
+  padding-bottom: 70px;
+}
+
+#about, #skills, #projects {
+  padding: 70px 0px;
+}
+
+.divider-custom {
+  margin: 1.25rem 0 1.5rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.divider-custom-line {
+  width: 100%;
+  max-width: 7rem;
+  height: 0.25rem;
+  background-color: #6c757d !important;
+  border-radius: 1rem;
+  border-color: #6c757d !important;
+}
+
+.divider-custom-icon {
+  margin: 0px 1rem;
 }
