@@ -20,16 +20,14 @@
         </div>
         <div class="cards">
           <% data.projects.each do |project| %>
-            <div class="card-product">
+            <div class="card" style="width: 25rem;">
               <%= image_tag project.image, alt: "project image" %>
-              <div class="card-product-infos w-100">
-                <div class="d-flex justify-content-between align-items-center">
-                  <h2><%= project.name %></h2>
-                  <% link_to project.url, class: 'external-link', target: '_blank' do %>
-                    <i class="fas fa-external-link-alt"></i>
-                  <% end %>
-                </div>
-                <p><%= project.description %></p>
+              <div class="card-body w-100">
+                <h5 class="card-title"><%= project.name %></h5>
+                <p class="card-text"><%= project.description %></p>
+                <% link_to project.url, class: 'external-link', target: '_blank' do %>
+                  <i class="fas fa-external-link-alt"></i>
+                <% end %>
               </div>
             </div>
           <% end %>

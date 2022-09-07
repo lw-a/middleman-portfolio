@@ -1,4 +1,8 @@
 // Specific CSS for your home-page
+body {
+  font-family: "Montserrat"
+}
+
 .bg-primary {
   background-color: #A4C3B2 !important;
 }
@@ -61,6 +65,7 @@
 }
 
 .footer {
+  margin-top: 70px;
   background-color: #6c757d !important;
 }
 
