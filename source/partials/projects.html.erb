@@ -25,8 +25,8 @@
               <div class="card-body w-100">
                 <h5 class="card-title"><%= project.name %></h5>
                 <p class="card-text"><%= project.description %></p>
-                <% link_to project.url, class: 'external-link', target: '_blank' do %>
-                  <i class="fas fa-external-link-alt"></i>
+                <% link_to project.url, class: 'btn btn-outline-primary ', target: '_blank' do %>
+                  Go to site <i class="fas fa-external-link-alt"></i>
                 <% end %>
               </div>
             </div>
