@@ -1,6 +1,6 @@
 - name: JobJob
   description: A job application management app.
-  image: projects/placeholder.png
+  image: projects/jobjob.png
   url: https://www.jobjob.pro/
   repo: https://github.com/lw-a/job-tracking-app
   tech: // Rails, Bootstrap, StimulusJS, PostgresQL
