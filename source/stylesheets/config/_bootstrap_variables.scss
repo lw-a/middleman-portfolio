@@ -11,7 +11,7 @@ $font-size-base: 1rem;
 
 // Colors
 $body-color: $dark-gray;
-$primary:    $blue;
+$primary:    #a4c3b2;
 $success:    $green;
 $info:       $yellow;
 $danger:     $red;
@@ -23,3 +23,14 @@ $border-radius-lg: 2px;
 $border-radius-sm: 2px;
 
 // Override other variables below!
+
+.btn-outline-primary {
+  color: #a4c3b2;
+  border-color: #a4c3b2;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #a4c3b2;
+  border-color: #a4c3b2;
+}
