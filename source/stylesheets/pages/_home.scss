@@ -17,8 +17,17 @@ body {
   padding-bottom: 70px;
 }
 
+.masthead h1 {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.masthead p {
+  font-size: 1.5rem;
+}
+
 #about, #skills, #projects {
-  padding: 70px 0px;
+  padding: 6rem 0px;
 }
 
 #projects {
@@ -55,6 +64,11 @@ body {
   margin: 0px 1rem;
 }
 
+#mainNav {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
 #mainNav a {
   text-decoration: none;
   color: white;
@@ -71,4 +85,18 @@ body {
 
 .footer a:hover {
   color: #A4C3B2;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+}
+
+#projects {
+  max-width: 900px;
+  margin: auto;
 }
