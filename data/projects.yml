@@ -1,5 +1,5 @@
 - name: JobJob
-  description: A job application management app.
+  description: A job application management app all done on a single page.
   image: projects/jobjob.png
   url: https://www.jobjob.pro/
   repo: https://github.com/lw-a/job-tracking-app
@@ -12,16 +12,16 @@
   repo: https://github.com/lw-a/party-outfit-rental-app
   tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  repo: https://github.com
-  tech: // Rails, Bootstrap, StimulusJS, PostgresQL
+- name: Harry Potter Gif Searcher
+  description: Harry Potter gif searcher in React using giphy's search api.
+  image: projects/hp.png
+  url: http://adamhemming.me/harry-potter-gif-searcher/
+  repo: https://github.com/lw-a/harry-potter-gif-searcher
+  tech: // React
 
-- name: Final project
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  repo: https://github.com
-  tech: // Rails, Bootstrap, StimulusJS, PostgresQL
+# - name: Final project
+#   description: Decent description of the app
+#   image: projects/placeholder.png
+#   url: https://www.google.com
+#   repo: https://github.com
+#   tech: // Rails, Bootstrap, StimulusJS, PostgresQL

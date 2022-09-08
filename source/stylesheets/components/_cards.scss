@@ -7,11 +7,12 @@
 
 .card {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-  min-height: 450px;
+  min-height: 400px;
 }
 
 .card img {
   // min-height: 250px;
+  object-fit: cover;
 }
 
 .card-title {
