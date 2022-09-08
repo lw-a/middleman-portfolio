@@ -3,21 +3,25 @@
   image: projects/placeholder.png
   url: https://www.jobjob.pro/
   repo: https://github.com/lw-a/job-tracking-app
+  tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
 - name: Oshare
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  repo: https://github.com
+  description: Online marketplace for booking outfits for special events.
+  image: projects/oshare.png
+  url: oshare-fit.herokuapp.com
+  repo: https://github.com/lw-a/party-outfit-rental-app
+  tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
 - name: Airbnb
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
   repo: https://github.com
+  tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
 - name: Final project
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
   repo: https://github.com
+  tech: // Rails, Bootstrap, StimulusJS, PostgresQL

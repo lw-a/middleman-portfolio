@@ -5,6 +5,33 @@
   place-items: center;
 }
 
+.card {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  min-height: 450px;
+}
+
+.card img {
+  // min-height: 250px;
+}
+
+.card-title {
+  font-weight: 700;
+}
+
+.card-text {
+  color: #6C757D;
+  margin-bottom: 8px;
+}
+
+.card-tech {
+  font-weight: 600;
+  // margin-bottom: auto;
+}
+
+.links {
+  width: 100%;
+  margin-top: auto;
+}
 
 // .card-product {
 //   overflow: hidden;
