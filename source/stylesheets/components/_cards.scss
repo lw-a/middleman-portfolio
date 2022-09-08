@@ -1,9 +1,10 @@
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 4rem 0px;
+  grid-gap: 4rem 1rem;
   place-items: center;
 }
+
 
 // .card-product {
 //   overflow: hidden;

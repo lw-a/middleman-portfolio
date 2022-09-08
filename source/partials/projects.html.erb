@@ -25,9 +25,14 @@
               <div class="card-body w-100">
                 <h5 class="card-title"><%= project.name %></h5>
                 <p class="card-text"><%= project.description %></p>
-                <% link_to project.url, class: 'btn btn-outline-primary ', target: '_blank' do %>
-                  Go to site <i class="fas fa-external-link-alt"></i>
-                <% end %>
+                <div class="links d-flex justify-content-between">
+                  <% link_to project.url, class: 'btn btn-outline-primary btn-sm', target: '_blank' do %>
+                    View site <i class="fas fa-external-link-alt"></i>
+                  <% end %>
+                  <% link_to project.repo, class: 'repo btn btn-outline-secondary btn-sm', target: '_blank' do %>
+                    Repo <i class="fas fa-external-link-alt"></i>
+                  <% end %>
+                </div>
               </div>
             </div>
           <% end %>
