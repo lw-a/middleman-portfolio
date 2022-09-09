@@ -8,7 +8,7 @@
 - name: Oshare
   description: Online marketplace for booking outfits for special events.
   image: projects/oshare.png
-  url: oshare-fit.herokuapp.com
+  url: http://oshare-fit.herokuapp.com/
   repo: https://github.com/lw-a/party-outfit-rental-app
   tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
