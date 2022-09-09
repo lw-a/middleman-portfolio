@@ -6,21 +6,21 @@
   tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
 - name: Oshare
-  description: Online marketplace for booking outfits for special events.
+  description: An online marketplace for booking outfits for special events.
   image: projects/oshare.png
   url: http://oshare-fit.herokuapp.com/
   repo: https://github.com/lw-a/party-outfit-rental-app
   tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
 - name: Harry Potter Gif Searcher
-  description: Harry Potter gif searcher in React using giphy's search api.
+  description: A Harry Potter gif searcher in React using giphy's search api.
   image: projects/hp.png
   url: https://lw-a.github.io/harry-potter-gif-searcher/
   repo: https://github.com/lw-a/harry-potter-gif-searcher
   tech: // React
 
 - name: Sketchbook
-  description: Drawing application created in vanilla Javascript.
+  description: A drawing application created in vanilla Javascript.
   image: projects/sketchbook.png
   url: https://lw-a.github.io/sketchbook/
   repo: https://github.com/lw-a/sketchbook
