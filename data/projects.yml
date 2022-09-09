@@ -15,13 +15,13 @@
 - name: Harry Potter Gif Searcher
   description: Harry Potter gif searcher in React using giphy's search api.
   image: projects/hp.png
-  url: http://adamhemming.me/harry-potter-gif-searcher/
+  url: https://lw-a.github.io/harry-potter-gif-searcher/
   repo: https://github.com/lw-a/harry-potter-gif-searcher
   tech: // React
 
 - name: Sketchbook
   description: Drawing application created in vanilla Javascript.
   image: projects/sketchbook.png
-  url: http://adamhemming.me/sketchbook/
+  url: https://lw-a.github.io/sketchbook/
   repo: https://github.com/lw-a/sketchbook
   tech: // Javascript
