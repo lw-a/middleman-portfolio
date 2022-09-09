@@ -19,9 +19,9 @@
   repo: https://github.com/lw-a/harry-potter-gif-searcher
   tech: // React
 
-# - name: Final project
-#   description: Decent description of the app
-#   image: projects/placeholder.png
-#   url: https://www.google.com
-#   repo: https://github.com
-#   tech: // Rails, Bootstrap, StimulusJS, PostgresQL
+- name: Sketchbook
+  description: Drawing application created in vanilla Javascript.
+  image: projects/sketchbook.png
+  url: http://adamhemming.me/sketchbook/
+  repo: https://github.com/lw-a/sketchbook
+  tech: // Javascript
