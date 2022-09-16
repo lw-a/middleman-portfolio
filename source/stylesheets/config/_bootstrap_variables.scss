@@ -34,3 +34,17 @@ $border-radius-sm: 2px;
   background-color: #a4c3b2;
   border-color: #a4c3b2;
 }
+
+.btn-outline-primary:active {
+  color: #fff;
+  background-color: #a4c3b2;
+  border-color: #a4c3b2;
+}
+
+.btn-outline-primary:focus {
+box-shadow: none;
+}
+
+.btn-outline-secondary:focus {
+  box-shadow: none;
+  }
