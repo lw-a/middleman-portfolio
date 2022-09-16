@@ -27,7 +27,7 @@
   tech: // Javascript
 
 - name: Tic Tac Toe
-  description: A Tic Tac Toe game made in vanilla Javascript. Created to practice factory functions and modules.
+  description: A Tic Tac Toe game made in vanilla Javascript. Created to practice factory functions and the module pattern.
   image: projects/tictactoe.png
   url: https://lw-a.github.io/tic-tac-toe/
   repo: https://github.com/lw-a/tic-tac-toe
