@@ -26,9 +26,9 @@
   repo: https://github.com/lw-a/sketchbook
   tech: // Javascript
 
-- name: Sketchbook
-  description: A drawing application created in vanilla Javascript.
+- name: Tic Tac Toe
+  description: A Tic Tac Toe game made in vanilla Javascript. Created to practice factory functions and modules.
   image: projects/tictactoe.png
-  url: https://lw-a.github.io/sketchbook/
-  repo: https://github.com/lw-a/sketchbook
+  url: https://lw-a.github.io/tic-tac-toe/
+  repo: https://github.com/lw-a/tic-tac-toe
   tech: // Javascript
