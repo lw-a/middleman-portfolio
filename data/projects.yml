@@ -25,3 +25,10 @@
   url: https://lw-a.github.io/sketchbook/
   repo: https://github.com/lw-a/sketchbook
   tech: // Javascript
+
+- name: Sketchbook
+  description: A drawing application created in vanilla Javascript.
+  image: projects/tictactoe.png
+  url: https://lw-a.github.io/sketchbook/
+  repo: https://github.com/lw-a/sketchbook
+  tech: // Javascript
