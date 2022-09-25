@@ -12,6 +12,13 @@
   repo: https://github.com/lw-a/party-outfit-rental-app
   tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
+- name: CV Maker
+  description: CV making application with printing feature built in React. Created to really solidify my understanding of React props, states and events.
+  image: projects/cv.png
+  url: https://lw-a.github.io/cv-app/
+  repo: https://github.com/lw-a/cv-app
+  tech: // React
+
 - name: Harry Potter Gif Searcher
   description: A Harry Potter gif searcher in React using giphy's search api.
   image: projects/hp.png
