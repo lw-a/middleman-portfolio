@@ -12,6 +12,13 @@
   repo: https://github.com/lw-a/party-outfit-rental-app
   tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
+- name: Concentration
+  description: Colour matching version of the game Concentration. Created for practice with React hooks and manipulating the lifecycle of functional components.
+  image: projects/concentration.png
+  url: https://lw-a.github.io/memory-game/
+  repo: https://github.com/lw-a/memory-game
+  tech: // React
+
 - name: CV Maker
   description: CV making application with printing feature built in React. Created to really solidify my understanding of React props, states and events.
   image: projects/cv.png
