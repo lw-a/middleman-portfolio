@@ -12,6 +12,13 @@
   repo: https://github.com/lw-a/party-outfit-rental-app
   tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
+- name: Find That Pokemon!
+  description: A Pokemon themed game inspired by Where's Waldo and built in React.
+  image: projects/pokemon.png
+  url: https://photo-tagging-app.vercel.app/
+  repo: https://github.com/lw-a/photo-tagging-app
+  tech: // React, Bootstrap
+
 - name: Concentration
   description: Colour matching version of the game Concentration. Created for practice with React hooks and manipulating the lifecycle of functional components.
   image: projects/concentration.png
