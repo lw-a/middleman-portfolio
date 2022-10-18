@@ -13,7 +13,7 @@
   tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
 - name: Find That Pokemon!
-  description: A Pokemon themed game inspired by Where's Waldo and built in React. Featuring global leaderboard.
+  description: A Pokemon themed game inspired by Where's Waldo and built in React with Rails backend. Featuring global leaderboard.
   image: projects/pokemon.png
   url: https://find-that-pokemon.herokuapp.com/
   repo: https://github.com/lw-a/photo-tagging-app
