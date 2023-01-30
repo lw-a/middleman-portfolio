@@ -1,7 +1,7 @@
 - name: JobJob
   description: A job application management app all done on a single page.
   image: projects/jobjob.png
-  url: https://www.jobjob.pro/
+  url: https://job-tracker928.herokuapp.com/
   repo: https://github.com/lw-a/job-tracking-app
   tech: // Rails, Bootstrap, StimulusJS, PostgresQL
 
