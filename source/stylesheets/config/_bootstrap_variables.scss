@@ -48,3 +48,9 @@ box-shadow: none;
 .btn-outline-secondary:focus {
   box-shadow: none;
   }
+
+  .btn-outline-primary.disabled {
+    background-color: #6C757D;
+    color: white;
+  border-color: black;
+  }

@@ -27,8 +27,8 @@
                 <p class="card-text"><%= project.description %></p>
                 <p class="card-tech"><%= project.tech %></p>
                 <div class="links d-flex justify-content-between">
-                  <% link_to project.url, class: 'btn btn-outline-primary btn-sm', target: '_blank' do %>
-                    View site <i class="fas fa-external-link-alt"></i>
+                  <% link_to project.url, class: "btn btn-outline-primary btn-sm #{project.url ? '' : 'disabled'}", target: '_blank' do %>
+                    <%= project.url ? 'View site <i class="fas fa-external-link-alt">' : 'Unavailable' %></i>
                   <% end %>
                   <% link_to project.repo, class: 'repo btn btn-outline-secondary btn-sm', target: '_blank' do %>
                     Repo <i class="fas fa-external-link-alt"></i>
